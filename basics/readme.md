@@ -45,3 +45,7 @@ When you start coding, you will definitely endup with long piles of code. One wa
 EXAMPLES
 ****
 [Basics on import and export of modules](./1_main.js)
+
+There are other modules that come along with node
+ - OS module
+ - Path module
