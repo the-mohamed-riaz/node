@@ -1,14 +1,15 @@
 {
-  "name": "riaz_node_tutorial",
-  "version": "1.0.0",
-  "description": "riaz trying node tutorials from freecodecamp",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "mohamed riaz",
-  "license": "ISC",
-  "dependencies": {
-    "nodemon": "^2.0.15"
-  }
+    "name": "riaz_node_tutorial",
+    "version": "1.0.0",
+    "description": "riaz trying node tutorials from freecodecamp",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "mohamed riaz",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
 }
